@@ -20,3 +20,9 @@
 │
 ├── README.md
 └── LICENSE
+headcount_tracker.py
+mood_analyzer.py
+video_input.py
+app.py
+dashboard.html
+logs.csv
