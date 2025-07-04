@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>VYBINTZ Dashboard</title>
+</head>
+<body>
+    <h1>Dashboard</h1>
+    {% if table %}
+        {{ table|safe }}
+    {% else %}
+        <p>No vibe checks recorded yet.</p>
+    {% endif %}
+</body>
+</html>
