@@ -62,5 +62,6 @@ Think of this like running a club:
 
 Spread the word about VYBINTZ and earn money. When a new venue purchases the
 platform through your unique link, you receive **33% commission** on that sale.
-Email `VYBINTZ@gmail.com` to request your referral URL and start promoting the
-assistant to bars and clubs in your network.
+Email `VYBINTZ@gmail.com` or visit
+[VYBINTZ.com](https://www.vybintz.com/) to request your referral URL and start
+promoting the assistant to bars and clubs in your network.
